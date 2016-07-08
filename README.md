@@ -1,5 +1,3 @@
-### Readme
-
 ### Name
 System Information to Excel Organization Management Utility
 
