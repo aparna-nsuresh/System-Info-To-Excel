@@ -28,7 +28,7 @@ N/A
 Allow for a quick collection and organization of employees and given computers.
 
 
-### Note: 
+### Extra Information
 User simply runs the computer.bat file. In order to access the information, first run the utility.jar file,
 and then open the output excel document. Editing the format excel sheet will allow the change of how the output sheet 
 is formatted. You can increase/decrease cell sizes, change the header names, etc.
