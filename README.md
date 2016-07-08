@@ -1,5 +1,4 @@
-### Name
-System Information to Excel Organization Management Utility
+### System Information to Excel Organization Management Utility
 
 ### Version
 Version 2.05
