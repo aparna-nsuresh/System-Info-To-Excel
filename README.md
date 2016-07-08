@@ -1,7 +1,6 @@
 ### System Information to Excel Organization Management Utility
 
-### Version
-Version 2.05
+> Version 2.05
 
 ### Date
 Last Updated Date: July 8, 2016
