@@ -5,9 +5,10 @@ Last Updated Date: July 8, 2016
 
 
 1.) How to use
-	a). Run the batch file to collect data from a given computer
-	b). Run the utility.jar file to organize the data into the output excel sheet (located in the output folder)
-	c). Open the output.xls file to view data from various computers
+
+a). Run the batch file to collect data from a given computer
+b). Run the utility.jar file to organize the data into the output excel sheet (located in the output folder)
+c). Open the output.xls file to view data from various computers
 	
 * Edit the format document to make any changes to format and rerun the utility
 
