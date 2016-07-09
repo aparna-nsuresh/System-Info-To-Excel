@@ -3,7 +3,7 @@
 > Version 2.05
 
 ### Date
-Last Updated Date: July 8, 2016
+Last Updated: July 8, 2016
 
 ### Instructions
 How to use
