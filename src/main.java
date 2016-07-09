@@ -93,11 +93,9 @@ public class main {
                     {
                         str = str.substring(27);
                     }
-                    else if(str.contains("Total # of free bytes        : "))
-                    {
-                        str = str.substring(31);
-                    }
-                    else if(str.contains("Total # of bytes             : ") || str.contains("Total # of avail free bytes  : "))
+                    
+                    else if(str.contains("Total # of bytes             : ") || str.contains("Total # of avail free bytes  : ")
+                            || str.contains("Total # of free bytes        : "))
                     {
                         str = str.substring(31);
 
