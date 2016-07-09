@@ -1,236 +1,236 @@
 Sanjeet Bagga 
 DESKTOP-HVCU17N 
 OS Name:                   Microsoft Windows 10 Home
-Name=Office 16 Click-to-Run Extensibility Component
-Name=Office 16 Click-to-Run Localization Component
-Name=Office 16 Click-to-Run Licensing Component
-Name=Microsoft .NET Framework 4.5.1 Multi-Targeting Pack
-Name=Microsoft SQL Server 2016 T-SQL ScriptDom RC0
-Name=Microsoft SQL Server Compact 4.0 SP1 x64 ENU
-Name=Microsoft .NET Framework 4.5.2 Multi-Targeting Pack (ENU)
-Name=Microsoft Visual Studio 2015 Performance Collection Tools
-Name=Microsoft SQL Server 2016 T-SQL Language Service RC0
-Name=Microsoft Visual Studio 2015 Performance Collection Tools - ENU
-Name=MSBuild/NuGet Integration 14.0 (x86)
-Name=Microsoft Visual Studio Community 2015
-Name=Visual C++ IDE Base Resource Package
-Name=Microsoft Visual Studio 2015 Windows Diagnostic Tools
-Name=Blend for Visual Studio SDK for .NET 4.5
-Name=Microsoft .NET Framework 4.6.1 SDK
-Name=IIS 10.0 Express
-Name=Microsoft ASP.NET MVC 4 - Visual Studio 2015 - ENU
-Name=Microsoft Visual Studio 2015 XAML Designer
-Name=Microsoft SQL Server 2014 Transact-SQL ScriptDom 
-Name=Microsoft .NET Framework 4.5 Multi-Targeting Pack
-Name=Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.4148
-Name=Microsoft Visual Studio Team Foundation Server 2015 Update 2 Storyboarding (x64)
-Name=Visual C++ IDE Core Professional Plus Resource Package
-Name=Azure AD Authentication Connected Service
-Name=TypeScript Tools for Microsoft Visual Studio 2015
-Name=Microsoft SQL Server 2012 Command Line Utilities 
-Name=Microsoft Visual C++ 2015 x64 Minimum Runtime - 14.0.23918
-Name=Visual C++ IDE Common Resource Package
-Name=Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219
-Name=Microsoft Visual Studio 2015 XAML Application Timeline
-Name=Free Fall Data Protection
-Name=Visual C++ IDE Debugger Resource Package
-Name=Dell Foundation Services
-Name=Visual C++ Compiler/Tools X86 Base Resource Package
-Name=Microsoft Visual Studio 2015 SDK - ENU
-Name=Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219
-Name=Test Tools for Microsoft Visual Studio 2015
-Name=Visual Studio Graphics Analyzer
-Name=Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005
-Name=Microsoft Visual Studio 2015 Devenv
-Name=Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005
-Name=Microsoft ASP.NET and Web Tools 2015.1 (Beta8) - Visual Studio 2015
-Name=Intel(R) ME UninstallLegacy
-Name=AzureTools.Notifications
-Name=Microsoft .NET Framework 4.5.1 Multi-Targeting Pack (ENU)
-Name=Alienware Digital Delivery
-Name=Microsoft .NET Framework 4.5.1 RC Multi-Targeting Pack for Windows Store Apps
-Name=Microsoft SQL Server 2012 Native Client 
-Name=Dell SupportAssistAgent
-Name=Visual Studio 2015 Prerequisites - ENU Language Pack
-Name=Microsoft System CLR Types for SQL Server 2016 RC0
-Name=Microsoft Visual Studio 2015 XAML Application Timeline - ENU
-Name=Intelr Trusted Connect Service Client
-Name=EMSC
-Name=Microsoft .NET Version Manager (x64) 1.0.0-beta5
-Name=vs_update2notification
-Name=Intel(R) Management Engine Components
-Name=Product Registration
-Name=Microsoft ASP.NET Web Pages 2 - Visual Studio 2015 - ENU
-Name=Node.js
-Name=Windows Software Development Kit for Windows Store Apps DirectX x86 Remote
-Name=Microsoft Blend for Visual Studio 2015 - ENU
-Name=Visual C++ IDE Core Professional Plus Resource Package
-Name=Visual C++ IDE Core Professional Plus Resource Package
-Name=Prerequisites for SSDT 
-Name=Visual C++ IDE Debugger Package
-Name=Intelr Security Assist
-Name=Visual C++ Compiler/Tools X86 Base Package
-Name=Intelr Hardware Accelerated Execution Manager
-Name=Microsoft System CLR Types for SQL Server 2016 RC0
-Name=Killer Wireless-AC Drivers
-Name=Qualcomm Atheros 61x4 Bluetooth Suite (64)
-Name=Microsoft Visual Studio Connected Services
-Name=Microsoft Azure Mobile Services Tools for Visual Studio - v1.4
-Name=Microsoft Portable Library Multi-Targeting Pack Language Pack - enu
-Name=Java 8 Update 92
-Name=Microsoft Visual C++ 2015 x86 Debug Runtime - 14.0.23918
-Name=Java SE Development Kit 8 Update 92
-Name=Microsoft Build Tools 14.0 (amd64)
-Name=Visual C++ IDE Base Package
-Name=Microsoft Visual Studio 2015 Windows Diagnostic Tools - ENU
-Name=Microsoft Portable Library Multi-Targeting Pack
-Name=Visual Studio 2012 Verification SDK
-Name=Intel(R) Rapid Storage Technology
-Name=Microsoft Visual Studio 2015 Shell (Minimum)
-Name=VMware Player
-Name=Visual C++ Library PGO X86 Package
-Name=Visual C++ IDE Core Professional Plus Resource Package
-Name=Microsoft Visual Studio Services Hub
-Name=Microsoft Visual C++ 2015 x86 Minimum Runtime - 14.0.23918
-Name=Visual C++ MSBuild Base Resource Package
-Name=Visual C++ IDE Core Professional Plus Resource Package
-Name=Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.21005
-Name=Microsoft VisualStudio JavaScript Project System
-Name=Microsoft Visual Studio 2015 Update 2 Diagnostic Tools - amd64
-Name=Microsoft Visual Studio Community 2015 - ENU
-Name=Microsoft .NET Framework 4.5.1 RC Multi-Targeting Pack for Windows Store Apps (ENU)
-Name=Microsoft Visual Studio Team Foundation Server 2015 Update 2 Office Integration Language Pack (x64) - ENU
-Name=Microsoft Visual Studio 2015 Shell (Minimum) Resources
-Name= Tools for .Net 3.5
-Name=Visual C++ IDE Professional Core Package
-Name=Microsoft Help Viewer 2.2
-Name=Windows Software Development Kit DirectX x86 Remote
-Name=Active Directory Authentication Library for SQL Server
-Name=Microsoft SQL Server 2014 Management Objects  (x64)
-Name=Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.21005
-Name=Dotfuscator and Analytics Community Edition 5.19.1
-Name=paint.net
-Name=VS Update core components
-Name=Roslyn Language Services - x86
-Name=Microsoft .NET Framework 4.6 SDK
-Name=Microsoft Visual Studio 2015 Diagnostic Tools - amd64
-Name=SkypeT 7.24
-Name=Microsoft Agents for Visual Studio 2015 Preview
-Name=Visual C++ IDE Core Professional Plus Resource Package
-Name=Visual C++ IDE Common Package
-Name=Microsoft Expression Blend SDK for .NET 4
-Name=Visual C++ MSBuild Base Package
-Name=Microsoft .NET Framework 4.6 Targeting Pack
-Name=Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030
-Name=Visual C++ IDE Core Package
-Name=Roslyn Language Services - x86
-Name=Windows Phone SDK 8.0 Assemblies for Visual Studio 2015
-Name=Microsoft SQL Server 2016 LocalDB RC0
-Name=Microsoft Visual Studio 2015 Update 2 Diagnostic Tools - x86
-Name=Microsoft Build Tools Language Resources 14.0 (amd64)
-Name=Windows Espc Resource Package
-Name=Microsoft Visual Studio 2015 Update 2 Performance Debugger Web Views
-Name=Microsoft .NET Framework 4 Multi-Targeting Pack
-Name=Microsoft Visual Studio Team Foundation Server 2015 Update 2 Storyboarding Language Pack (x64) - ENU
-Name=Microsoft Visual Studio Team Foundation Server 2015 Update 2 Office Integration (x64)
-Name=Microsoft Visual C++ 2015 x64 Additional Runtime - 14.0.23918
-Name=Visual C++ IDE x64 Package
-Name=Microsoft.VisualStudio.Office365
-Name=Multi-Device Hybrid Apps using C# - Templates - ENU
-Name=Microsoft Visual Studio 2015 Preparation
-Name=Microsoft SQL Server 2016 Management Objects RC0
-Name=Microsoft .NET Framework 4.5.2 Multi-Targeting Pack
-Name=Microsoft Visual Studio 2015 XAML Visual Diagnostics - ENU
-Name=Microsoft Visual C++ 2015 x86 Additional Runtime - 14.0.23918
-Name=Visual C++ MSBuild X86 Package
-Name=Microsoft System CLR Types for SQL Server 2014
-Name=TypeScript Power Tool
-Name=Microsoft Visual Studio 2015 Devenv Resources
-Name=
-Name=Microsoft Visual Studio 2015 Preparation
-Name=Microsoft SQL Server Data Tools - enu (14.0.60311.1)
-Name=Microsoft .NET Framework 4.6.1 Targeting Pack
-Name=Microsoft .NET Framework 4.6 Targeting Pack (ENU)
-Name=Google Update Helper
-Name=Visual C++ Compiler/Tools X86 Base Resource Package
-Name=Active Directory Authentication Library for SQL Server (x86)
-Name=Microsoft Azure Mobile Services SDK V2.0
-Name=Microsoft Visual Studio 2015 Preparation
-Name=Visual C++ IDE Core Professional Plus Resource Package
-Name=Windows Software Development Kit for Windows Store Apps DirectX x64 Remote
-Name=Microsoft Azure Shared Components for Visual Studio 2015 - v1.7
-Name=Microsoft Visual Studio 2015 Shell (Minimum) Interop Assemblies
-Name=Visual C++ IDE Core Professional Plus Resource Package
-Name=Microsoft SQL Server 2014 T-SQL Language Service 
-Name=Visual C++ IDE Core Professional Plus Resource Package
-Name=Microsoft Visual Studio 2015 VsGraphics Helper Dependencies
-Name=Microsoft NuGet - Visual Studio 2015
-Name=Microsoft System CLR Types for SQL Server 2014
-Name=Thunderbolt(TM) Software
-Name=Microsoft Visual Studio 2015 Update 2 Diagnostic Tools - x86
-Name=Killer Bandwidth Control Filter Driver
-Name=Visual C++ IDE Base Resource Package
-Name=Microsoft Visual Studio 2015 Update 2 Diagnostic Tools - ENU
-Name=Microsoft Visual Studio 2015 Update 2 Diagnostic Tools - x86
-Name=Alienware Command Center
-Name=Microsoft Visual Studio 2015 Update 2 Team Explorer Language Pack - ENU
-Name=Visual C++ IDE Core Professional Plus Resource Package
-Name=Microsoft .NET Core 5.0 SDK
-Name=Microsoft Visual Studio 2015 XAML Designer - ENU
-Name=Intel(R) Chipset Device Software
-Name=Entity Framework 6.1.3 Tools  for Visual Studio 2015 Update 1
-Name=Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030
-Name=Microsoft Visual C++ 2015 x64 Debug Runtime - 14.0.23918
-Name=Alienware Customer Connect
-Name=Visual Studio 2015 Prerequisites
-Name=Prerequisites for SSDT RC0
-Name=Microsoft Build Tools Language Resources 14.0 (x86)
-Name=Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030
-Name=Killer E240x Drivers
-Name=Microsoft ASP.NET Web Frameworks and Tools - Visual Studio 2015 - ENU
-Name=Microsoft Visual Studio 2015 XAML Visual Diagnostics
-Name=Visual C++ IDE Core Professional Plus Resource Package
-Name=Microsoft Web Deploy 3.6
-Name=Windows Espc Package
-Name=Visual C++ IDE Core Professional Plus Resource Package
-Name=Microsoft Azure Storage Connected Service
-Name=
-Name=Microsoft Build Tools 14.0 (x86)
-Name=Microsoft .NET Framework 4.5.1 SDK
-Name=Microsoft Silverlight
-Name=WCF Data Services 5.6.4 Runtime
-Name=Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030
-Name=PreEmptive Analytics Visual Studio Components
-Name=Microsoft Blend for Visual Studio 2015
-Name=Microsoft VisualStudio JavaScript Language Service
-Name=Dell Data Vault
-Name=Microsoft Visual Studio 2015 Update 2 Diagnostic Tools - amd64
-Name=Application Insights Tools for Visual Studio 2015
-Name=Visual C++ MSBuild X64 Package
-Name=Visual C++ IDE Core Professional Plus Resource Package
-Name=Windows Software Development Kit DirectX x64 Remote
-Name=Sound Blaster Recon3Di
-Name=WCF Data Services Tools for Microsoft Visual Studio 2015
-Name=Alienware Graphics Amplifier Software Installer
-Name=Microsoft Visual Studio 2015 Test Tools Language Pack - ENU
-Name=Microsoft .NET Framework 4.6.1 Targeting Pack (ENU)
-Name=Intel(R) Management Engine Components
-Name=Alienware On-Screen Display
-Name=Microsoft SQL Server 2016 Management Objects RC0 (x64)
-Name=Microsoft Azure Mobile Services Connected Service
-Name=Microsoft SQL Server 2014 Management Objects 
-Name=Java Auto Updater
-Name=Team Explorer for Microsoft Visual Studio 2015 Update 2
-Name=Microsoft Visual Studio 2015 Profiling Tools
-Name=Visual C++ MSBuild ARM Package
-Name=Visual C++ IDE Core Professional Plus Resource Package
-Name=Visual C++ Compiler/Tools X86 Base Package
-Name=Killer Network Manager
-Name=Microsoft Agents for Visual Studio 2015 Preview - ENU
+Name Office 16 Click-to-Run Extensibility Component 
+Name Office 16 Click-to-Run Localization Component 
+Name Office 16 Click-to-Run Licensing Component 
+Name Microsoft .NET Framework 4.5.1 Multi-Targeting Pack 
+Name Microsoft SQL Server 2016 T-SQL ScriptDom RC0 
+Name Microsoft SQL Server Compact 4.0 SP1 x64 ENU 
+Name Microsoft .NET Framework 4.5.2 Multi-Targeting Pack (ENU) 
+Name Microsoft Visual Studio 2015 Performance Collection Tools 
+Name Microsoft SQL Server 2016 T-SQL Language Service RC0 
+Name Microsoft Visual Studio 2015 Performance Collection Tools - ENU 
+Name MSBuild/NuGet Integration 14.0 (x86) 
+Name Microsoft Visual Studio Community 2015 
+Name Visual C++ IDE Base Resource Package 
+Name Microsoft Visual Studio 2015 Windows Diagnostic Tools 
+Name Blend for Visual Studio SDK for .NET 4.5 
+Name Microsoft .NET Framework 4.6.1 SDK 
+Name IIS 10.0 Express 
+Name Microsoft ASP.NET MVC 4 - Visual Studio 2015 - ENU 
+Name Microsoft Visual Studio 2015 XAML Designer 
+Name Microsoft SQL Server 2014 Transact-SQL ScriptDom  
+Name Microsoft .NET Framework 4.5 Multi-Targeting Pack 
+Name Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.4148 
+Name Microsoft Visual Studio Team Foundation Server 2015 Update 2 Storyboarding (x64) 
+Name Visual C++ IDE Core Professional Plus Resource Package 
+Name Azure AD Authentication Connected Service 
+Name TypeScript Tools for Microsoft Visual Studio 2015 
+Name Microsoft SQL Server 2012 Command Line Utilities  
+Name Microsoft Visual C++ 2015 x64 Minimum Runtime - 14.0.23918 
+Name Visual C++ IDE Common Resource Package 
+Name Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219 
+Name Microsoft Visual Studio 2015 XAML Application Timeline 
+Name Free Fall Data Protection 
+Name Visual C++ IDE Debugger Resource Package 
+Name Dell Foundation Services 
+Name Visual C++ Compiler/Tools X86 Base Resource Package 
+Name Microsoft Visual Studio 2015 SDK - ENU 
+Name Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219 
+Name Test Tools for Microsoft Visual Studio 2015 
+Name Visual Studio Graphics Analyzer 
+Name Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005 
+Name Microsoft Visual Studio 2015 Devenv 
+Name Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005 
+Name Microsoft ASP.NET and Web Tools 2015.1 (Beta8) - Visual Studio 2015 
+Name Intel(R) ME UninstallLegacy 
+Name AzureTools.Notifications 
+Name Microsoft .NET Framework 4.5.1 Multi-Targeting Pack (ENU) 
+Name Alienware Digital Delivery 
+Name Microsoft .NET Framework 4.5.1 RC Multi-Targeting Pack for Windows Store Apps 
+Name Microsoft SQL Server 2012 Native Client  
+Name Dell SupportAssistAgent 
+Name Visual Studio 2015 Prerequisites - ENU Language Pack 
+Name Microsoft System CLR Types for SQL Server 2016 RC0 
+Name Microsoft Visual Studio 2015 XAML Application Timeline - ENU 
+Name Intelr Trusted Connect Service Client 
+Name EMSC 
+Name Microsoft .NET Version Manager (x64) 1.0.0-beta5 
+Name vs_update2notification 
+Name Intel(R) Management Engine Components 
+Name Product Registration 
+Name Microsoft ASP.NET Web Pages 2 - Visual Studio 2015 - ENU 
+Name Node.js 
+Name Windows Software Development Kit for Windows Store Apps DirectX x86 Remote 
+Name Microsoft Blend for Visual Studio 2015 - ENU 
+Name Visual C++ IDE Core Professional Plus Resource Package 
+Name Visual C++ IDE Core Professional Plus Resource Package 
+Name Prerequisites for SSDT  
+Name Visual C++ IDE Debugger Package 
+Name Intelr Security Assist 
+Name Visual C++ Compiler/Tools X86 Base Package 
+Name Intelr Hardware Accelerated Execution Manager 
+Name Microsoft System CLR Types for SQL Server 2016 RC0 
+Name Killer Wireless-AC Drivers 
+Name Qualcomm Atheros 61x4 Bluetooth Suite (64) 
+Name Microsoft Visual Studio Connected Services 
+Name Microsoft Azure Mobile Services Tools for Visual Studio - v1.4 
+Name Microsoft Portable Library Multi-Targeting Pack Language Pack - enu 
+Name Java 8 Update 92 
+Name Microsoft Visual C++ 2015 x86 Debug Runtime - 14.0.23918 
+Name Java SE Development Kit 8 Update 92 
+Name Microsoft Build Tools 14.0 (amd64) 
+Name Visual C++ IDE Base Package 
+Name Microsoft Visual Studio 2015 Windows Diagnostic Tools - ENU 
+Name Microsoft Portable Library Multi-Targeting Pack 
+Name Visual Studio 2012 Verification SDK 
+Name Intel(R) Rapid Storage Technology 
+Name Microsoft Visual Studio 2015 Shell (Minimum) 
+Name VMware Player 
+Name Visual C++ Library PGO X86 Package 
+Name Visual C++ IDE Core Professional Plus Resource Package 
+Name Microsoft Visual Studio Services Hub 
+Name Microsoft Visual C++ 2015 x86 Minimum Runtime - 14.0.23918 
+Name Visual C++ MSBuild Base Resource Package 
+Name Visual C++ IDE Core Professional Plus Resource Package 
+Name Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.21005 
+Name Microsoft VisualStudio JavaScript Project System 
+Name Microsoft Visual Studio 2015 Update 2 Diagnostic Tools - amd64 
+Name Microsoft Visual Studio Community 2015 - ENU 
+Name Microsoft .NET Framework 4.5.1 RC Multi-Targeting Pack for Windows Store Apps (ENU) 
+Name Microsoft Visual Studio Team Foundation Server 2015 Update 2 Office Integration Language Pack (x64) - ENU 
+Name Microsoft Visual Studio 2015 Shell (Minimum) Resources 
+Name  Tools for .Net 3.5 
+Name Visual C++ IDE Professional Core Package 
+Name Microsoft Help Viewer 2.2 
+Name Windows Software Development Kit DirectX x86 Remote 
+Name Active Directory Authentication Library for SQL Server 
+Name Microsoft SQL Server 2014 Management Objects  (x64) 
+Name Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.21005 
+Name Dotfuscator and Analytics Community Edition 5.19.1 
+Name paint.net 
+Name VS Update core components 
+Name Roslyn Language Services - x86 
+Name Microsoft .NET Framework 4.6 SDK 
+Name Microsoft Visual Studio 2015 Diagnostic Tools - amd64 
+Name SkypeT 7.24 
+Name Microsoft Agents for Visual Studio 2015 Preview 
+Name Visual C++ IDE Core Professional Plus Resource Package 
+Name Visual C++ IDE Common Package 
+Name Microsoft Expression Blend SDK for .NET 4 
+Name Visual C++ MSBuild Base Package 
+Name Microsoft .NET Framework 4.6 Targeting Pack 
+Name Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030 
+Name Visual C++ IDE Core Package 
+Name Roslyn Language Services - x86 
+Name Windows Phone SDK 8.0 Assemblies for Visual Studio 2015 
+Name Microsoft SQL Server 2016 LocalDB RC0 
+Name Microsoft Visual Studio 2015 Update 2 Diagnostic Tools - x86 
+Name Microsoft Build Tools Language Resources 14.0 (amd64) 
+Name Windows Espc Resource Package 
+Name Microsoft Visual Studio 2015 Update 2 Performance Debugger Web Views 
+Name Microsoft .NET Framework 4 Multi-Targeting Pack 
+Name Microsoft Visual Studio Team Foundation Server 2015 Update 2 Storyboarding Language Pack (x64) - ENU 
+Name Microsoft Visual Studio Team Foundation Server 2015 Update 2 Office Integration (x64) 
+Name Microsoft Visual C++ 2015 x64 Additional Runtime - 14.0.23918 
+Name Visual C++ IDE x64 Package 
+Name Microsoft.VisualStudio.Office365 
+Name Multi-Device Hybrid Apps using C# - Templates - ENU 
+Name Microsoft Visual Studio 2015 Preparation 
+Name Microsoft SQL Server 2016 Management Objects RC0 
+Name Microsoft .NET Framework 4.5.2 Multi-Targeting Pack 
+Name Microsoft Visual Studio 2015 XAML Visual Diagnostics - ENU 
+Name Microsoft Visual C++ 2015 x86 Additional Runtime - 14.0.23918 
+Name Visual C++ MSBuild X86 Package 
+Name Microsoft System CLR Types for SQL Server 2014 
+Name TypeScript Power Tool 
+Name Microsoft Visual Studio 2015 Devenv Resources 
+Name  
+Name Microsoft Visual Studio 2015 Preparation 
+Name Microsoft SQL Server Data Tools - enu (14.0.60311.1) 
+Name Microsoft .NET Framework 4.6.1 Targeting Pack 
+Name Microsoft .NET Framework 4.6 Targeting Pack (ENU) 
+Name Google Update Helper 
+Name Visual C++ Compiler/Tools X86 Base Resource Package 
+Name Active Directory Authentication Library for SQL Server (x86) 
+Name Microsoft Azure Mobile Services SDK V2.0 
+Name Microsoft Visual Studio 2015 Preparation 
+Name Visual C++ IDE Core Professional Plus Resource Package 
+Name Windows Software Development Kit for Windows Store Apps DirectX x64 Remote 
+Name Microsoft Azure Shared Components for Visual Studio 2015 - v1.7 
+Name Microsoft Visual Studio 2015 Shell (Minimum) Interop Assemblies 
+Name Visual C++ IDE Core Professional Plus Resource Package 
+Name Microsoft SQL Server 2014 T-SQL Language Service  
+Name Visual C++ IDE Core Professional Plus Resource Package 
+Name Microsoft Visual Studio 2015 VsGraphics Helper Dependencies 
+Name Microsoft NuGet - Visual Studio 2015 
+Name Microsoft System CLR Types for SQL Server 2014 
+Name Thunderbolt(TM) Software 
+Name Microsoft Visual Studio 2015 Update 2 Diagnostic Tools - x86 
+Name Killer Bandwidth Control Filter Driver 
+Name Visual C++ IDE Base Resource Package 
+Name Microsoft Visual Studio 2015 Update 2 Diagnostic Tools - ENU 
+Name Microsoft Visual Studio 2015 Update 2 Diagnostic Tools - x86 
+Name Alienware Command Center 
+Name Microsoft Visual Studio 2015 Update 2 Team Explorer Language Pack - ENU 
+Name Visual C++ IDE Core Professional Plus Resource Package 
+Name Microsoft .NET Core 5.0 SDK 
+Name Microsoft Visual Studio 2015 XAML Designer - ENU 
+Name Intel(R) Chipset Device Software 
+Name Entity Framework 6.1.3 Tools  for Visual Studio 2015 Update 1 
+Name Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030 
+Name Microsoft Visual C++ 2015 x64 Debug Runtime - 14.0.23918 
+Name Alienware Customer Connect 
+Name Visual Studio 2015 Prerequisites 
+Name Prerequisites for SSDT RC0 
+Name Microsoft Build Tools Language Resources 14.0 (x86) 
+Name Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030 
+Name Killer E240x Drivers 
+Name Microsoft ASP.NET Web Frameworks and Tools - Visual Studio 2015 - ENU 
+Name Microsoft Visual Studio 2015 XAML Visual Diagnostics 
+Name Visual C++ IDE Core Professional Plus Resource Package 
+Name Microsoft Web Deploy 3.6 
+Name Windows Espc Package 
+Name Visual C++ IDE Core Professional Plus Resource Package 
+Name Microsoft Azure Storage Connected Service 
+Name  
+Name Microsoft Build Tools 14.0 (x86) 
+Name Microsoft .NET Framework 4.5.1 SDK 
+Name Microsoft Silverlight 
+Name WCF Data Services 5.6.4 Runtime 
+Name Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030 
+Name PreEmptive Analytics Visual Studio Components 
+Name Microsoft Blend for Visual Studio 2015 
+Name Microsoft VisualStudio JavaScript Language Service 
+Name Dell Data Vault 
+Name Microsoft Visual Studio 2015 Update 2 Diagnostic Tools - amd64 
+Name Application Insights Tools for Visual Studio 2015 
+Name Visual C++ MSBuild X64 Package 
+Name Visual C++ IDE Core Professional Plus Resource Package 
+Name Windows Software Development Kit DirectX x64 Remote 
+Name Sound Blaster Recon3Di 
+Name WCF Data Services Tools for Microsoft Visual Studio 2015 
+Name Alienware Graphics Amplifier Software Installer 
+Name Microsoft Visual Studio 2015 Test Tools Language Pack - ENU 
+Name Microsoft .NET Framework 4.6.1 Targeting Pack (ENU) 
+Name Intel(R) Management Engine Components 
+Name Alienware On-Screen Display 
+Name Microsoft SQL Server 2016 Management Objects RC0 (x64) 
+Name Microsoft Azure Mobile Services Connected Service 
+Name Microsoft SQL Server 2014 Management Objects  
+Name Java Auto Updater 
+Name Team Explorer for Microsoft Visual Studio 2015 Update 2 
+Name Microsoft Visual Studio 2015 Profiling Tools 
+Name Visual C++ MSBuild ARM Package 
+Name Visual C++ IDE Core Professional Plus Resource Package 
+Name Visual C++ Compiler/Tools X86 Base Package 
+Name Killer Network Manager 
+Name Microsoft Agents for Visual Studio 2015 Preview - ENU 
 Original Install Date:     5/12/2016, 2:57:11 PM
     IP Address:                           192.168.1.38
 9E:B6:D0:0C:9A:C3  Microsoft Wi-Fi Direct Virtual Adapter                
-Name=Intel(R) Core(TM) i5-6300HQ CPU @ 2.30GHz
-Total # of free bytes        : 761679454208
+Intel(R) Core(TM) i5-6300HQ CPU @ 2.30GHz 
+Total # of free bytes        : 760190754816
 Total # of bytes             : 986865201152
-Total # of avail free bytes  : 761679454208
+Total # of avail free bytes  : 760190754816

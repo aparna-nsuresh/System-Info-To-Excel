@@ -72,6 +72,7 @@ public class main {
                 while (s.hasNextLine()) {
                     String str = s.nextLine();
 
+
                     column++;
                     WritableCellFormat cellFormat = new WritableCellFormat();
                     try {
@@ -92,13 +93,14 @@ public class main {
                     {
                         str = str.substring(27);
                     }
-                    else if(str.contains(" # of free bytes        : "))
+                    else if(str.contains("Total # of free bytes        : "))
                     {
-                        str = str.substring(26);
+                        str = str.substring(31);
                     }
                     else if(str.contains("Total # of bytes             : ") || str.contains("Total # of avail free bytes  : "))
                     {
                         str = str.substring(31);
+
                     }
 
                     Label label = new Label(column, row, str, cellFormat);
@@ -110,11 +112,10 @@ public class main {
                      *Wraps all the programs into a single cell
                      */
 
-                    while(s.hasNext() && (str.contains("Name=")  && (s.next().contains("Name="))))
+                    while(s.hasNext() && (str.contains("Name") && s.next().contains("Name")))
                     {
-
                         test += "\n" + s.nextLine();
-                        test = test.replaceAll("(?m)^[ \t]*\r?\n", "");
+
 
                     }
 
