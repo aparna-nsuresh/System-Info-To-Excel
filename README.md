@@ -32,7 +32,7 @@ User simply runs the computer.bat file. In order to access the information, firs
 and then open the output excel document. Editing the format excel sheet will allow the change of how the output sheet 
 is formatted. You can increase/decrease cell sizes, change the header names, etc.
 
-> Sanjeet Bagga
-- If you have any questions or concerns, feel free to email me at: sanjeetkbagga@gmail.com
+> If you have any questions or concerns, feel free to email me at: sanjeetkbagga@gmail.com
+- Sanjeet Bagga
 
 
