@@ -6,7 +6,6 @@
 Last Updated: July 8, 2016
 
 ### Instructions
-How to use
   - Run the batch file to collect data from a given computer
   - Run the utility.jar file to organize the data into the output excel sheet (located in the output folder)
   - Open the output.xls file to view data from various computers
