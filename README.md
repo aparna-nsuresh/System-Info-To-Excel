@@ -1,4 +1,4 @@
-### System Information to Excel Organization Management Utility
+# System Info to Excel Utility
 
 > Version 2.05
 
