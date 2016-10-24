@@ -14,4 +14,3 @@ fsutil volume diskfree C: >> output/%COMPUTERNAME%.txt
 
 
 
-

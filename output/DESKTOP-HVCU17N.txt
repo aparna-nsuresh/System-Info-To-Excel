@@ -15,16 +15,20 @@ Name MSBuild/NuGet Integration 14.0 (x86)
 Name Microsoft Visual Studio Community 2015 
 Name Visual C++ IDE Base Resource Package 
 Name Microsoft Visual Studio 2015 Windows Diagnostic Tools 
+Name Visual Studio 2012 x64 Redistributables 
 Name Blend for Visual Studio SDK for .NET 4.5 
 Name Microsoft .NET Framework 4.6.1 SDK 
 Name IIS 10.0 Express 
+Name Paragon HFS+ for WindowsT 10.5 
 Name Microsoft ASP.NET MVC 4 - Visual Studio 2015 - ENU 
 Name Microsoft Visual Studio 2015 XAML Designer 
+Name AVG Zen 
 Name Microsoft SQL Server 2014 Transact-SQL ScriptDom  
 Name Microsoft .NET Framework 4.5 Multi-Targeting Pack 
 Name Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.4148 
 Name Microsoft Visual Studio Team Foundation Server 2015 Update 2 Storyboarding (x64) 
 Name Visual C++ IDE Core Professional Plus Resource Package 
+Name Dell SupportAssistAgent 
 Name Azure AD Authentication Connected Service 
 Name TypeScript Tools for Microsoft Visual Studio 2015 
 Name Microsoft SQL Server 2012 Command Line Utilities  
@@ -35,6 +39,7 @@ Name Microsoft Visual Studio 2015 XAML Application Timeline
 Name Free Fall Data Protection 
 Name Visual C++ IDE Debugger Resource Package 
 Name Dell Foundation Services 
+Name Node.js 
 Name Visual C++ Compiler/Tools X86 Base Resource Package 
 Name Microsoft Visual Studio 2015 SDK - ENU 
 Name Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219 
@@ -50,18 +55,17 @@ Name Microsoft .NET Framework 4.5.1 Multi-Targeting Pack (ENU)
 Name Alienware Digital Delivery 
 Name Microsoft .NET Framework 4.5.1 RC Multi-Targeting Pack for Windows Store Apps 
 Name Microsoft SQL Server 2012 Native Client  
-Name Dell SupportAssistAgent 
 Name Visual Studio 2015 Prerequisites - ENU Language Pack 
 Name Microsoft System CLR Types for SQL Server 2016 RC0 
 Name Microsoft Visual Studio 2015 XAML Application Timeline - ENU 
 Name Intelr Trusted Connect Service Client 
 Name EMSC 
 Name Microsoft .NET Version Manager (x64) 1.0.0-beta5 
+Name AVG 
 Name vs_update2notification 
 Name Intel(R) Management Engine Components 
-Name Product Registration 
 Name Microsoft ASP.NET Web Pages 2 - Visual Studio 2015 - ENU 
-Name Node.js 
+Name Product Registration 
 Name Windows Software Development Kit for Windows Store Apps DirectX x86 Remote 
 Name Microsoft Blend for Visual Studio 2015 - ENU 
 Name Visual C++ IDE Core Professional Plus Resource Package 
@@ -75,9 +79,10 @@ Name Microsoft System CLR Types for SQL Server 2016 RC0
 Name Killer Wireless-AC Drivers 
 Name Qualcomm Atheros 61x4 Bluetooth Suite (64) 
 Name Microsoft Visual Studio Connected Services 
+Name AVG 2016 
 Name Microsoft Azure Mobile Services Tools for Visual Studio - v1.4 
 Name Microsoft Portable Library Multi-Targeting Pack Language Pack - enu 
-Name Java 8 Update 92 
+Name Java 8 Update 101 
 Name Microsoft Visual C++ 2015 x86 Debug Runtime - 14.0.23918 
 Name Java SE Development Kit 8 Update 92 
 Name Microsoft Build Tools 14.0 (amd64) 
@@ -114,7 +119,7 @@ Name VS Update core components
 Name Roslyn Language Services - x86 
 Name Microsoft .NET Framework 4.6 SDK 
 Name Microsoft Visual Studio 2015 Diagnostic Tools - amd64 
-Name SkypeT 7.24 
+Name SkypeT 7.25 
 Name Microsoft Agents for Visual Studio 2015 Preview 
 Name Visual C++ IDE Core Professional Plus Resource Package 
 Name Visual C++ IDE Common Package 
@@ -163,6 +168,7 @@ Name Microsoft Visual Studio 2015 Shell (Minimum) Interop Assemblies
 Name Visual C++ IDE Core Professional Plus Resource Package 
 Name Microsoft SQL Server 2014 T-SQL Language Service  
 Name Visual C++ IDE Core Professional Plus Resource Package 
+Name Visual Studio 2012 x86 Redistributables 
 Name Microsoft Visual Studio 2015 VsGraphics Helper Dependencies 
 Name Microsoft NuGet - Visual Studio 2015 
 Name Microsoft System CLR Types for SQL Server 2014 
@@ -225,12 +231,14 @@ Name Microsoft Visual Studio 2015 Profiling Tools
 Name Visual C++ MSBuild ARM Package 
 Name Visual C++ IDE Core Professional Plus Resource Package 
 Name Visual C++ Compiler/Tools X86 Base Package 
+Name FMW 1 
 Name Killer Network Manager 
 Name Microsoft Agents for Visual Studio 2015 Preview - ENU 
-Original Install Date:     5/12/2016, 2:57:11 PM
-    IP Address:                           192.168.1.38
+Name SDFormatter 
+Original Install Date:     8/4/2016, 11:29:04 AM
+    IP Address:                           192.168.50.25
 9E:B6:D0:0C:9A:C3  Microsoft Wi-Fi Direct Virtual Adapter                
 Intel(R) Core(TM) i5-6300HQ CPU @ 2.30GHz 
-Total # of free bytes        : 760190754816
+Total # of free bytes        : 724201660416
 Total # of bytes             : 986865201152
-Total # of avail free bytes  : 760190754816
+Total # of avail free bytes  : 724201660416
