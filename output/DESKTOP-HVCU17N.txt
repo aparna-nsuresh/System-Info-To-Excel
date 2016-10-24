@@ -1,9 +1,9 @@
 Sanjeet Bagga 
 DESKTOP-HVCU17N 
 OS Name:                   Microsoft Windows 10 Home
-Name Office 16 Click-to-Run Extensibility Component 
-Name Office 16 Click-to-Run Localization Component 
-Name Office 16 Click-to-Run Licensing Component 
+Name Microsoft Office 2016 (Version 16) Click-to-Run Extensibility Component 
+Name Microsoft Office 2016 (Version 16) Click-to-Run Localization Component 
+Name Microsoft Office 2016 (Version 16) Click-to-Run Licensing Component 
 Name Microsoft .NET Framework 4.5.1 Multi-Targeting Pack 
 Name Microsoft SQL Server 2016 T-SQL ScriptDom RC0 
 Name Microsoft SQL Server Compact 4.0 SP1 x64 ENU 
@@ -239,6 +239,6 @@ Original Install Date:     8/4/2016, 11:29:04 AM
     IP Address:                           192.168.50.25
 9E:B6:D0:0C:9A:C3  Microsoft Wi-Fi Direct Virtual Adapter                
 Intel(R) Core(TM) i5-6300HQ CPU @ 2.30GHz 
-Total # of free bytes        : 724201660416
+Total # of free bytes        : 723963994112
 Total # of bytes             : 986865201152
-Total # of avail free bytes  : 724201660416
+Total # of avail free bytes  : 723963994112

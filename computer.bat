@@ -10,6 +10,10 @@ wmic nic where "macaddress <> null" get macaddress, name | find "Wi-Fi" >> outpu
 For /F "tokens=1,2 delims==" %%a in ('wmic cpu get name /Format:list') do @if "%%b" neq "" echo %%b >> output/%COMPUTERNAME%.txt
 fsutil volume diskfree C: >> output/%COMPUTERNAME%.txt
 
+cd output
+
+start far.bat
+
 
 
 
