@@ -1,9 +1,9 @@
 # System Info to Excel Utility
 
-> Version 2.05
+> Version 2.1
 
 ### Date
-Last Updated: July 8, 2016
+Last Updated: December 5, 2016
 
 ### Instructions
   - Run the batch file to collect data from a given computer
