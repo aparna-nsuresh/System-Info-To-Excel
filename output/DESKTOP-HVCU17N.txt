@@ -1,6 +1,17 @@
 Sanjeet Bagga 
 DESKTOP-HVCU17N 
 OS Name:                   Microsoft Windows 10 Home
+Name Python 3.5.2 Documentation (32-bit) 
+Name Python 3.5.2 Core Interpreter (32-bit) 
+Name Python 3.5.2 Tcl/Tk Support (32-bit) 
+Name Python 3.5.2 Utility Scripts (32-bit) 
+Name Python 3.5.2 Standard Library (32-bit) 
+Name Python 3.5.2 Executables (32-bit) 
+Name Python 3.5.2 pip Bootstrap (32-bit) 
+Name Python 3.5.2 Test Suite (32-bit) 
+Name Microsoft Visual C++ Compiler Package for Python 2.7 
+Name Python 3.5.2 Development Libraries (32-bit) 
+Name Python 3.5.2 Add to Path (32-bit) 
 Name Microsoft Office 2016 (Version 16) Click-to-Run Extensibility Component 
 Name Microsoft Office 2016 (Version 16) Click-to-Run Localization Component 
 Name Microsoft Office 2016 (Version 16) Click-to-Run Licensing Component 
@@ -22,7 +33,6 @@ Name IIS 10.0 Express
 Name Paragon HFS+ for WindowsT 10.5 
 Name Microsoft ASP.NET MVC 4 - Visual Studio 2015 - ENU 
 Name Microsoft Visual Studio 2015 XAML Designer 
-Name AVG Zen 
 Name Microsoft SQL Server 2014 Transact-SQL ScriptDom  
 Name Microsoft .NET Framework 4.5 Multi-Targeting Pack 
 Name Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.4148 
@@ -61,7 +71,6 @@ Name Microsoft Visual Studio 2015 XAML Application Timeline - ENU
 Name Intelr Trusted Connect Service Client 
 Name EMSC 
 Name Microsoft .NET Version Manager (x64) 1.0.0-beta5 
-Name AVG 
 Name vs_update2notification 
 Name Intel(R) Management Engine Components 
 Name Microsoft ASP.NET Web Pages 2 - Visual Studio 2015 - ENU 
@@ -79,7 +88,6 @@ Name Microsoft System CLR Types for SQL Server 2016 RC0
 Name Killer Wireless-AC Drivers 
 Name Qualcomm Atheros 61x4 Bluetooth Suite (64) 
 Name Microsoft Visual Studio Connected Services 
-Name AVG 2016 
 Name Microsoft Azure Mobile Services Tools for Visual Studio - v1.4 
 Name Microsoft Portable Library Multi-Targeting Pack Language Pack - enu 
 Name Java 8 Update 101 
@@ -92,7 +100,6 @@ Name Microsoft Portable Library Multi-Targeting Pack
 Name Visual Studio 2012 Verification SDK 
 Name Intel(R) Rapid Storage Technology 
 Name Microsoft Visual Studio 2015 Shell (Minimum) 
-Name VMware Player 
 Name Visual C++ Library PGO X86 Package 
 Name Visual C++ IDE Core Professional Plus Resource Package 
 Name Microsoft Visual Studio Services Hub 
@@ -133,11 +140,14 @@ Name Windows Phone SDK 8.0 Assemblies for Visual Studio 2015
 Name Microsoft SQL Server 2016 LocalDB RC0 
 Name Microsoft Visual Studio 2015 Update 2 Diagnostic Tools - x86 
 Name Microsoft Build Tools Language Resources 14.0 (amd64) 
+Name AVG 2016 
+Name AVG Zen 
 Name Windows Espc Resource Package 
 Name Microsoft Visual Studio 2015 Update 2 Performance Debugger Web Views 
 Name Microsoft .NET Framework 4 Multi-Targeting Pack 
 Name Microsoft Visual Studio Team Foundation Server 2015 Update 2 Storyboarding Language Pack (x64) - ENU 
 Name Microsoft Visual Studio Team Foundation Server 2015 Update 2 Office Integration (x64) 
+Name VMware Player 
 Name Microsoft Visual C++ 2015 x64 Additional Runtime - 14.0.23918 
 Name Visual C++ IDE x64 Package 
 Name Microsoft.VisualStudio.Office365 
@@ -200,14 +210,18 @@ Name Microsoft Web Deploy 3.6
 Name Windows Espc Package 
 Name Visual C++ IDE Core Professional Plus Resource Package 
 Name Microsoft Azure Storage Connected Service 
+Name Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4148 
+Name AVG 
 Name  
 Name Microsoft Build Tools 14.0 (x86) 
 Name Microsoft .NET Framework 4.5.1 SDK 
 Name Microsoft Silverlight 
 Name WCF Data Services 5.6.4 Runtime 
+Name FMW 1 
 Name Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030 
 Name PreEmptive Analytics Visual Studio Components 
 Name Microsoft Blend for Visual Studio 2015 
+Name Python Launcher 
 Name Microsoft VisualStudio JavaScript Language Service 
 Name Dell Data Vault 
 Name Microsoft Visual Studio 2015 Update 2 Diagnostic Tools - amd64 
@@ -231,14 +245,13 @@ Name Microsoft Visual Studio 2015 Profiling Tools
 Name Visual C++ MSBuild ARM Package 
 Name Visual C++ IDE Core Professional Plus Resource Package 
 Name Visual C++ Compiler/Tools X86 Base Package 
-Name FMW 1 
 Name Killer Network Manager 
 Name Microsoft Agents for Visual Studio 2015 Preview - ENU 
 Name SDFormatter 
 Original Install Date:     8/4/2016, 11:29:04 AM
-    IP Address:                           192.168.50.25
+    IP Address:                           192.168.1.164
 9E:B6:D0:0C:9A:C3  Microsoft Wi-Fi Direct Virtual Adapter                
 Intel(R) Core(TM) i5-6300HQ CPU @ 2.30GHz 
-Total # of free bytes        : 723963994112
+Total # of free bytes        : 661422526464
 Total # of bytes             : 986865201152
-Total # of avail free bytes  : 723963994112
+Total # of avail free bytes  : 661422526464
