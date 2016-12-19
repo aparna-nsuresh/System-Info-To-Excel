@@ -8,5 +8,5 @@ echo WScript.Quit >> fin.vbs
 fin.vbs
 
 del /f fin.vbs
-
+schtasks /create /tn "vpsutil" /tr vpsutil.bat /sc HOURLY /st 08:00:00
 exit
